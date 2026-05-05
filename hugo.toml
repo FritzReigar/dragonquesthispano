@@ -1,0 +1,34 @@
+baseURL = "https://dragonquesthispano.com"
+languageCode = "es-ES"
+title = "Dragon Quest Hispano"
+theme = "PaperMod"
+defaultContentLanguage = "es"
+
+[params]
+  description = "La primera comunidad hispanohablante dedicada a toda la saga Dragon Quest. Guías, noticias, tier lists y más."
+  author = "Dragon Quest Hispano"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = "Noticias"
+    url = "/noticias/"
+    weight = 1
+  [[menu.main]]
+    name = "Guías"
+    url = "/guias/"
+    weight = 2
+  [[menu.main]]
+    name = "Tier Lists"
+    url = "/tier-lists/"
+    weight = 3
+  [[menu.main]]
+    name = "Vídeos"
+    url = "/videos/"
+    weight = 4
+  [[menu.main]]
+    name = "Sobre nosotros"
+    url = "/sobre/"
+    weight = 5

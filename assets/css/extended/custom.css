@@ -1,0 +1,76 @@
+/* header */
+.header {
+    background-color: #1B4F9B !important;
+}
+
+.header a {
+    color: #FFFFFF !important;
+}
+
+.header a:hover {
+    color: #F5A800 !important;
+}
+
+/* Navegación */
+.nav {
+    background-color: #1B4F9B;
+}
+
+.nav a, .logo, .logo a {
+    color: #FFFFFF !important;
+}
+
+/* Títulos modo claro */
+h1, h2 {
+    color: #1B4F9B;
+}
+
+h3, h4 {
+    color: #1B4F9B;
+    opacity: 0.85;
+}
+
+/* Links */
+a {
+    color: #1B4F9B;
+}
+
+a:hover {
+    color: #F5A800;
+}
+
+/* Tags */
+.post-tags a {
+    background-color: #1B4F9B;
+    color: #FFFFFF !important;
+}
+
+.post-tags a:hover {
+    background-color: #F5A800;
+    color: #FFFFFF !important;
+}
+
+/* Modo oscuro */
+.dark .nav {
+    background-color: #0F2D5E;
+}
+
+.dark h1, .dark h2 {
+    color: #F5A800;
+}
+
+.dark h3, .dark h4 {
+    color: #7BA7E0;
+}
+
+.dark a {
+    color: #7BA7E0;
+}
+
+.dark a:hover {
+    color: #F5A800;
+}
+
+.dark .post-tags a {
+    background-color: #0F2D5E;
+}
