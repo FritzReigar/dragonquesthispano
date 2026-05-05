@@ -10,6 +10,7 @@ defaultContentLanguage = "es"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  ShareButtons = ["twitter", "reddit"]
 
 [menu]
   [[menu.main]]

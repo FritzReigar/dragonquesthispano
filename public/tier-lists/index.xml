@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tier-Lists on Dragon Quest Hispano</title>
-    <link>http://localhost:1313/tier-lists/</link>
+    <link>http://localhost:49840/tier-lists/</link>
     <description>Recent content in Tier-Lists on Dragon Quest Hispano</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Fri, 01 May 2026 19:50:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tier-lists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49840/tier-lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tier List de Armas Dragon Quest Smash/Grow — Cuál es la Mejor</title>
-      <link>http://localhost:1313/tier-lists/tier-list-armas-dragon-quest-smash-grow/</link>
+      <title>Tier List de Armas — Dragon Quest Smash/Grow (Mayo 2026)</title>
+      <link>http://localhost:49840/tier-lists/tier-list-armas-dragon-quest-smash-grow/</link>
       <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
-      <guid>http://localhost:1313/tier-lists/tier-list-armas-dragon-quest-smash-grow/</guid>
-      <description>Tier list completa de todas las armas de 3 estrellas de Dragon Quest Smash/Grow en español. Cuál sacar, cuál ignorar y por qué.</description>
+      <guid>http://localhost:49840/tier-lists/tier-list-armas-dragon-quest-smash-grow/</guid>
+      <description>Tier list completa y actualizada de todas las armas de 3 estrellas de Dragon Quest Smash/Grow en español. Cuál sacar, cuál ignorar y por qué, con análisis de stats, clases y sinergias.</description>
     </item>
   </channel>
 </rss>

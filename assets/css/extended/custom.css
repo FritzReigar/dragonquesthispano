@@ -74,3 +74,8 @@ a:hover {
 .dark .post-tags a {
     background-color: #0F2D5E;
 }
+
+.erdricks-sword img {
+    width: 21%;
+    display: block;
+}
