@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Evento on Dragon Quest Hispano</title>
+    <link>http://localhost:1313/tags/evento/</link>
+    <description>Recent content in Evento on Dragon Quest Hispano</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 05 May 2026 17:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/evento/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía de cofres del evento Dragon Quest I — Capítulo 1 y 2</title>
+      <link>http://localhost:1313/guias/guia-cofres-evento-dragon-quest-i/</link>
+      <pubDate>Tue, 05 May 2026 17:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/guias/guia-cofres-evento-dragon-quest-i/</guid>
+      <description>Ubicación y contenido de todos los cofres del evento Dragon Quest I en Dragon Quest Smash/Grow. Capítulo 1 y Capítulo 2 con mapas en español. Se actualiza con cada nuevo capítulo.</description>
+    </item>
+  </channel>
+</rss>

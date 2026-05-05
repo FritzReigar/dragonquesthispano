@@ -6,11 +6,16 @@ defaultContentLanguage = "es"
 
 [params]
   description = "La primera comunidad hispanohablante dedicada a toda la saga Dragon Quest. Guías, noticias, tier lists y más."
-  author = "Dragon Quest Hispano"
+  author = "Fritz Reigar"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
-  ShareButtons = ["twitter", "reddit"]
+  mainSections = ["guias", "tier-lists", "noticias"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
   [[menu.main]]
@@ -25,11 +30,3 @@ defaultContentLanguage = "es"
     name = "Tier Lists"
     url = "/tier-lists/"
     weight = 3
-  [[menu.main]]
-    name = "Vídeos"
-    url = "/videos/"
-    weight = 4
-  [[menu.main]]
-    name = "Sobre nosotros"
-    url = "/sobre/"
-    weight = 5

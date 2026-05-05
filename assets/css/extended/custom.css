@@ -75,7 +75,34 @@ a:hover {
     background-color: #0F2D5E;
 }
 
-.erdricks-sword img {
-    width: 21%;
+/* Images */
+.post-single .entry-cover img {
+    max-height: 350px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.entry-cover img {
+    max-height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.img-weapon img {
+    width: 25%;
     display: block;
 }
+
+.img-weapon-large img {
+    width: 50%;
+    display: block;
+}
+
+.img-map img {
+    width: 100%;
+}
+
+.img-banner img {
+    width: 100%;
+}
+

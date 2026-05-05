@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Smash-Grow on Dragon Quest Hispano</title>
+    <link>http://localhost:1313/tags/smash-grow/</link>
+    <description>Recent content in Smash-Grow on Dragon Quest Hispano</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 05 May 2026 19:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/smash-grow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evento Dragon Quest I — Capítulo 2 ya disponible</title>
+      <link>http://localhost:1313/noticias/evento-dragon-quest-i-capitulo-2/</link>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/noticias/evento-dragon-quest-i-capitulo-2/</guid>
+      <description>El Capítulo 2 del evento Dragon Quest I en Smash/Grow ya está disponible. Nuevas zonas, nuevo Fearsome Foe, co-op Defend Cantlin y calendario completo hasta el epílogo.</description>
+    </item>
+    <item>
+      <title>Guía de cofres del evento Dragon Quest I — Capítulo 1 y 2</title>
+      <link>http://localhost:1313/guias/guia-cofres-evento-dragon-quest-i/</link>
+      <pubDate>Tue, 05 May 2026 17:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/guias/guia-cofres-evento-dragon-quest-i/</guid>
+      <description>Ubicación y contenido de todos los cofres del evento Dragon Quest I en Dragon Quest Smash/Grow. Capítulo 1 y Capítulo 2 con mapas en español. Se actualiza con cada nuevo capítulo.</description>
+    </item>
+    <item>
+      <title>Tier List de Armas — Dragon Quest Smash/Grow (Mayo 2026)</title>
+      <link>http://localhost:1313/tier-lists/tier-list-armas-dragon-quest-smash-grow/</link>
+      <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
+      <guid>http://localhost:1313/tier-lists/tier-list-armas-dragon-quest-smash-grow/</guid>
+      <description>Tier list completa y actualizada de todas las armas de 3 estrellas de Dragon Quest Smash/Grow en español. Cuál sacar, cuál ignorar y por qué, con análisis de stats, clases y sinergias.</description>
+    </item>
+  </channel>
+</rss>

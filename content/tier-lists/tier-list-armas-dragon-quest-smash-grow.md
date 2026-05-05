@@ -3,8 +3,13 @@ date = '2026-05-01T19:50:22+02:00'
 draft = false
 title = 'Tier List de Armas — Dragon Quest Smash/Grow (Mayo 2026)'
 description = 'Tier list completa y actualizada de todas las armas de 3 estrellas de Dragon Quest Smash/Grow en español. Cuál sacar, cuál ignorar y por qué, con análisis de stats, clases y sinergias.'
-tags = ['Dragon Quest Smash', 'tier list', 'armas', 'guía', 'español']
+tags = ['smash-grow', 'smash-grow-tier-list']
 categories = ['tier-lists']
+
+[cover]
+  image = "/images/tierlists/Tier_list_Armas.png"
+  alt = "Tier list de armas Dragon Quest Smash/Grow"
+  relative = false
 +++
 
 Dragon Quest Smash/Grow lleva poco más de una semana disponible y la primera duda de cualquier jugador nuevo es siempre la misma: **¿qué arma merece la pena conseguir?**
@@ -27,7 +32,7 @@ Antes de entrar en el ranking, tres cosas que afectan directamente a cuánto rin
 
 ## Tier List completa
 
-{{< figure src="/images/armas/Tier_list_Armas.png" alt="Tier list completa de armas Dragon Quest Smash/Grow" caption="Tier list actualizada a mayo de 2026" >}}
+{{< figure src="/images/tierlists/Tier_list_Armas.png" alt="Tier list completa de armas Dragon Quest Smash/Grow" caption="Tier list actualizada a mayo de 2026" >}}
 
 | Tier | Armas |
 |------|-------|
@@ -67,7 +72,7 @@ El boon exclusivo es con **Thief** (+5 Attack), una de las mejores clases del ju
 
 ### Erdrick's Sword
 
-{{< figure src="/images/armas/Erdrick_s_Sword.jpeg" alt="Erdrick's Sword Dragon Quest Smash/Grow" class="erdricks-sword" >}}
+{{< figure src="/images/armas/Erdrick_s_Sword.jpeg" alt="Erdrick's Sword Dragon Quest Smash/Grow" class="img-weapon" >}}
 
 **Tipo:** Espada (melee) | **Elemento:** Rayo | **Banner:** Erdrick's Equipment (limitado)
 

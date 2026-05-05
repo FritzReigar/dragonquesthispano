@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dragon Quest Hispano</title>
-    <link>http://localhost:49840/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Dragon Quest Hispano</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 01 May 2026 19:50:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49840/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 May 2026 19:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Armas</title>
-      <link>http://localhost:49840/tags/armas/</link>
-      <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
-      <guid>http://localhost:49840/tags/armas/</guid>
+      <title>Smash-Grow</title>
+      <link>http://localhost:1313/tags/smash-grow/</link>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/smash-grow/</guid>
       <description></description>
     </item>
     <item>
-      <title>Dragon Quest Smash</title>
-      <link>http://localhost:49840/tags/dragon-quest-smash/</link>
-      <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
-      <guid>http://localhost:49840/tags/dragon-quest-smash/</guid>
+      <title>Smash-Grow-Evento</title>
+      <link>http://localhost:1313/tags/smash-grow-evento/</link>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/smash-grow-evento/</guid>
       <description></description>
     </item>
     <item>
-      <title>Español</title>
-      <link>http://localhost:49840/tags/espa%C3%B1ol/</link>
-      <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
-      <guid>http://localhost:49840/tags/espa%C3%B1ol/</guid>
+      <title>Smash-Grow-Noticias</title>
+      <link>http://localhost:1313/tags/smash-grow-noticias/</link>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/smash-grow-noticias/</guid>
       <description></description>
     </item>
     <item>
-      <title>Guía</title>
-      <link>http://localhost:49840/tags/gu%C3%ADa/</link>
-      <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
-      <guid>http://localhost:49840/tags/gu%C3%ADa/</guid>
+      <title>Smash-Grow-Guía</title>
+      <link>http://localhost:1313/tags/smash-grow-gu%C3%ADa/</link>
+      <pubDate>Tue, 05 May 2026 17:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/tags/smash-grow-gu%C3%ADa/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tier List</title>
-      <link>http://localhost:49840/tags/tier-list/</link>
+      <title>Smash-Grow-Tier-List</title>
+      <link>http://localhost:1313/tags/smash-grow-tier-list/</link>
       <pubDate>Fri, 01 May 2026 19:50:22 +0200</pubDate>
-      <guid>http://localhost:49840/tags/tier-list/</guid>
+      <guid>http://localhost:1313/tags/smash-grow-tier-list/</guid>
       <description></description>
     </item>
   </channel>

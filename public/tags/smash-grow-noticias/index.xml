@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Smash-Grow-Noticias on Dragon Quest Hispano</title>
+    <link>http://localhost:1313/tags/smash-grow-noticias/</link>
+    <description>Recent content in Smash-Grow-Noticias on Dragon Quest Hispano</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 05 May 2026 19:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/smash-grow-noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evento Dragon Quest I — Capítulo 2 ya disponible</title>
+      <link>http://localhost:1313/noticias/evento-dragon-quest-i-capitulo-2/</link>
+      <pubDate>Tue, 05 May 2026 19:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/noticias/evento-dragon-quest-i-capitulo-2/</guid>
+      <description>El Capítulo 2 del evento Dragon Quest I en Smash/Grow ya está disponible. Nuevas zonas, nuevo Fearsome Foe, co-op Defend Cantlin y calendario completo hasta el epílogo.</description>
+    </item>
+  </channel>
+</rss>
