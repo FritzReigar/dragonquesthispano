@@ -7,7 +7,7 @@ tags = ['smash-grow', 'smash-grow-tier-list']
 categories = ['tier-lists']
 
 [cover]
-  image = "/images/tierlists/Tier_list_Armas.png"
+  image = "/images/tierlists/Tier_List_Armas.png"
   alt = "Tier list de armas Dragon Quest Smash/Grow"
   relative = false
 +++
@@ -32,7 +32,7 @@ Antes de entrar en el ranking, tres cosas que afectan directamente a cuánto rin
 
 ## Tier List completa
 
-{{< figure src="/images/tierlists/Tier_list_Armas.png" alt="Tier list completa de armas Dragon Quest Smash/Grow" caption="Tier list actualizada a mayo de 2026" >}}
+{{< figure src="/images/tierlists/Tier_List_Armas.png" alt="Tier list completa de armas Dragon Quest Smash/Grow" caption="Tier list actualizada a mayo de 2026" >}}
 
 | Tier | Armas |
 |------|-------|
