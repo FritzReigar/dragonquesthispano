@@ -106,3 +106,8 @@ a:hover {
     width: 100%;
 }
 
+.img-build-screenshot {
+  max-width: 40%;
+  display: block;
+  margin: 0 auto;
+}
