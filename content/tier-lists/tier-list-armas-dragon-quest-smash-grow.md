@@ -1,5 +1,5 @@
 +++
-date = '2026-05-01T19:50:22+02:00'
+date = '2026-05-17T19:00:00+02:00'
 draft = false
 title = 'Tier List de Armas — Dragon Quest Smash/Grow (Mayo 2026)'
 description = 'Tier list completa y actualizada de todas las armas de 3 estrellas de Dragon Quest Smash/Grow en español. Cuál sacar, cuál ignorar y por qué, con análisis de stats, clases y sinergias.'
