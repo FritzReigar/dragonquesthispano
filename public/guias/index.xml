@@ -6,8 +6,15 @@
     <description>Recent content in Guias on Dragon Quest Hispano</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/guias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía del Fearsome Foe: Knight Aberrant — Dragon Quest Smash/Grow</title>
+      <link>http://localhost:1313/guias/knight-aberrant-fearsome-foe-guide/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/guias/knight-aberrant-fearsome-foe-guide/</guid>
+      <description>&lt;p&gt;El Fearsome Foe: Knight Aberrant llegó con el Capítulo 2 del evento Dragon Quest I y estará activo hasta el 16 de junio. La memoria S que deja es la Knight Aberrant Memory, con Magical Damage +3%, útil para cualquier build mágica y especialmente para el Mage. Funciona con tickets que consigues haciendo quests del evento, así que cada intento cuenta y merece la pena aguantar lo máximo posible para sacarle el mayor partido a cada ticket.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Guía del Fearsome Foe: Green Dragon — Dragon Quest Smash/Grow</title>
       <link>http://localhost:1313/guias/green-dragon-fearsome-foe-guide/</link>
