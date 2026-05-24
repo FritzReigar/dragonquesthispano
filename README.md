@@ -72,4 +72,6 @@ El sitio usa Cloudflare como proxy delante de Cloudflare Pages. Por defecto, la 
 
 ## Capturas
 
+![Sección Noticias](screenshots/noticias.png)
 ![Tier List modo oscuro](screenshots/tierlist_dark_mode.png)
+![Footer modo oscuro](screenshots/footer.png)
